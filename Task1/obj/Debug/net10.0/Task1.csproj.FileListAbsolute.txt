@@ -12,3 +12,4 @@
 /Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task1/obj/Debug/net10.0/Task1.pdb
 /Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task1/obj/Debug/net10.0/Task1.genruntimeconfig.cache
 /Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task1/obj/Debug/net10.0/ref/Task1.dll
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task1/obj/Debug/net10.0/Task1.sourcelink.json
