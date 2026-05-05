@@ -1,0 +1,15 @@
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/bin/Debug/net10.0/Task4
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/bin/Debug/net10.0/Task4.deps.json
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/bin/Debug/net10.0/Task4.runtimeconfig.json
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/bin/Debug/net10.0/Task4.dll
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/bin/Debug/net10.0/Task4.pdb
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.AssemblyInfoInputs.cache
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.AssemblyInfo.cs
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.csproj.CoreCompileInputs.cache
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.sourcelink.json
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.dll
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/refint/Task4.dll
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.pdb
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/Task4.genruntimeconfig.cache
+/Users/olegmalimon/Desktop/C#/Лекции/Lesson1/Task4/obj/Debug/net10.0/ref/Task4.dll
